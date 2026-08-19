@@ -1,3 +1,3 @@
 # Learngit
-learning git and github <br> Ft Tanveer Khan
+learning git and github <br>
 Author - Tanveer Khan
