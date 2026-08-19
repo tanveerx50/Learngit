@@ -1,2 +1,2 @@
 # Learngit
-learning git and github
+learning git and github Ft Tanveer Khan
